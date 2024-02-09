@@ -1,6 +1,4 @@
----
-title: C review, gdb, software skills"
----
+# C review, gdb, software skills
 
 This lab will reinforce your prior experience in the C programming
 language and give you practice using certain command-line tools. The
